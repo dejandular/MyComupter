@@ -6,7 +6,7 @@ choco install chocolatey -y
 #General Tools
 choco install sql-server-management-studio -y
 choco install vscode -y
-choco install visualstudio2019enterprise -y
+choco install visualstudio202enterprise -y
 choco install powershell-core -y
 choco install microsoft-windows-terminal -y
 choco install microsoftazurestorageexplorer -y
@@ -33,8 +33,6 @@ choco install whatsapp -y
 
 #Time wasters
 choco install vlc -y
-choco install spotify -y
-choco install steam -y
 choco install paint.net -y
 choco install librecad -y
 choco install cura-new -y
@@ -58,5 +56,3 @@ choco install powertoys -y
 choco install putty.install -y
 choco install filezilla -y
 choco install keepass.install -y
-
-
