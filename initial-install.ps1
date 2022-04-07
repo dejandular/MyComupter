@@ -6,7 +6,7 @@ choco install chocolatey -y
 #General Tools
 choco install sql-server-management-studio -y
 choco install vscode -y
-choco install visualstudio202enterprise -y
+choco install visualstudio2022enterprise -y
 choco install powershell-core -y
 choco install microsoft-windows-terminal -y
 choco install microsoftazurestorageexplorer -y
